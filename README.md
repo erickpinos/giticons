@@ -22,3 +22,6 @@ rm ~/.gitignore_global
 Testing
 echo test > desktop.ini  
 git check-ignore -v desktop.ini
+
+Only working scripts are setup_git_icons and undo_git_icons
+TODO: dev branch
